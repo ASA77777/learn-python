@@ -19,3 +19,8 @@ print(4.3+5.7)
 print(3+5.8)
 
 print(int(float("3.14")))
+
+print(int("1000"))
+print(int(3.764))
+print("$" + str(99.45) + " dollars")
+
